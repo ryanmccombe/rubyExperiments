@@ -12,44 +12,69 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/basicRuby@my_select__basicRuby.coverage" NAME="my_select: basicRuby Coverage Results" MODIFIED="1412030249481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_select_works_with_block__basicRuby.coverage" NAME="my_select works with block: basicRuby Coverage Results" MODIFIED="1412031388643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_each_with_index_works_with_block__basicRuby.coverage" NAME="my_each_with_index works with block: basicRuby Coverage Results" MODIFIED="1412031250136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_inject_works_with_block___arg__basicRuby.coverage" NAME="my_inject works with block + arg: basicRuby Coverage Results" MODIFIED="1412032467598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@array_value_by_index_with_default.coverage" NAME="array_value_by_index_with_default Coverage Results" MODIFIED="1411326294672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@classesIntro.coverage" NAME="classesIntro Coverage Results" MODIFIED="1411318745380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_inject_works_with_text__basicRuby.coverage" NAME="my_inject works with text: basicRuby Coverage Results" MODIFIED="1412032869227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@jaden_case.coverage" NAME="jaden_case Coverage Results" MODIFIED="1411328518280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@enumerable_methods.coverage" NAME="enumerable_methods Coverage Results" MODIFIED="1411969798852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_count_works_with_block__basicRuby.coverage" NAME="my_count works with block: basicRuby Coverage Results" MODIFIED="1412028665260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@Run_spec__enumerable_methods_spec___basicRuby.coverage" NAME="Run spec 'enumerable_methods_spec': basicRuby Coverage Results" MODIFIED="1412033274300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@the_stock_picker_works_with_basic_input__basicRuby.coverage" NAME="the stock picker works with basic input: basicRuby Coverage Results" MODIFIED="1411870278970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@regular_ball_super_ball.coverage" NAME="regular-ball-super-ball Coverage Results" MODIFIED="1411323945254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@the_caeser_cipher_ciphers_forwards__basicRuby.coverage" NAME="the caeser cipher ciphers forwards: basicRuby Coverage Results" MODIFIED="1411867235203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@the_caeser_cipher_wraps__basicRuby.coverage" NAME="the caeser cipher wraps: basicRuby Coverage Results" MODIFIED="1411867377597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@simple_elevator.coverage" NAME="simple_elevator Coverage Results" MODIFIED="1411403648111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@Run_spec__caesar_cipher_spec___basicRuby.coverage" NAME="Run spec 'caesar_cipher_spec': basicRuby Coverage Results" MODIFIED="1411874345037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@puts_gets.coverage" NAME="puts_gets Coverage Results" MODIFIED="1411318575244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@santaclausable_interface.coverage" NAME="santaclausable_interface Coverage Results" MODIFIED="1411400512669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@unpacking_arguments.coverage" NAME="unpacking_arguments Coverage Results" MODIFIED="1411405657846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@the_caeser_cipher_maintains_case__basicRuby.coverage" NAME="the caeser cipher maintains case: basicRuby Coverage Results" MODIFIED="1411867442369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@puts_gets.coverage" NAME="puts_gets Coverage Results" MODIFIED="1411318575244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@projectEuler3.coverage" NAME="projectEuler3 Coverage Results" MODIFIED="1411317859557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@the_caeser_cipher_ciphers_backwards__basicRuby.coverage" NAME="the caeser cipher ciphers backwards: basicRuby Coverage Results" MODIFIED="1411867278267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@list_filtering.coverage" NAME="list_filtering Coverage Results" MODIFIED="1411397624604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@the_substrings_method_accepts_multiple_words__basicRuby.coverage" NAME="the substrings method accepts multiple words: basicRuby Coverage Results" MODIFIED="1411871753453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_count_works_by_default__basicRuby.coverage" NAME="my_count works by default: basicRuby Coverage Results" MODIFIED="1412031429057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@grader.coverage" NAME="grader Coverage Results" MODIFIED="1411324467491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@the_bubble_sort_method_sorts_generic_case__basicRuby.coverage" NAME="the bubble_sort method sorts generic case: basicRuby Coverage Results" MODIFIED="1411964529296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@the_bubble_sort_method_benchmarks_best_case__basicRuby.coverage" NAME="the bubble_sort method benchmarks best case: basicRuby Coverage Results" MODIFIED="1411964561884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1411966595901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_count__basicRuby.coverage" NAME="my_count: basicRuby Coverage Results" MODIFIED="1412031434261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@the_hello_function_says_hello__basicRuby.coverage" NAME="the hello function says hello: basicRuby Coverage Results" MODIFIED="1411867015872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testFirstDev_rSpec/00_hello" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1411866896495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1411966595901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_map_works_with_block__basicRuby.coverage" NAME="my_map works with block: basicRuby Coverage Results" MODIFIED="1412031333645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@Run_spec__stock_picker_spec___basicRuby.coverage" NAME="Run spec 'stock_picker_spec': basicRuby Coverage Results" MODIFIED="1411873498978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@substrings.coverage" NAME="substrings Coverage Results" MODIFIED="1411871648189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_inject__basicRuby.coverage" NAME="my_inject: basicRuby Coverage Results" MODIFIED="1412032459322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_all___basicRuby.coverage" NAME="my_all?: basicRuby Coverage Results" MODIFIED="1412029100942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@projectEuler2.coverage" NAME="projectEuler2 Coverage Results" MODIFIED="1411314301587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@the_substrings_method_works_with_a_word__basicRuby.coverage" NAME="the substrings method works with a word: basicRuby Coverage Results" MODIFIED="1411871688900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_any__works_with_block__basicRuby.coverage" NAME="my_any? works with block: basicRuby Coverage Results" MODIFIED="1412031418588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@array_second.coverage" NAME="array_second Coverage Results" MODIFIED="1411325244890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@sort_numbers.coverage" NAME="sort_numbers Coverage Results" MODIFIED="1411327530775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@the_caeser_cipher_only_ciphers_letters__basicRuby.coverage" NAME="the caeser cipher only ciphers letters: basicRuby Coverage Results" MODIFIED="1411867411314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@Run_spec__bubblesort_spec___basicRuby.coverage" NAME="Run spec 'bubblesort_spec': basicRuby Coverage Results" MODIFIED="1411966792619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@the_stock_picker__basicRuby.coverage" NAME="the stock picker: basicRuby Coverage Results" MODIFIED="1411870296007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_count_works_with_arg__basicRuby.coverage" NAME="my_count works with arg: basicRuby Coverage Results" MODIFIED="1412028629534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@search_for_letters.coverage" NAME="search_for_letters Coverage Results" MODIFIED="1411408957570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@the_bubble_sort_method_sorts_worst_case__basicRuby.coverage" NAME="the bubble_sort method sorts worst case: basicRuby Coverage Results" MODIFIED="1411964516434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
-    <SUITE FILE_PATH="coverage/basicRuby@array_flatten.coverage" NAME="array_flatten Coverage Results" MODIFIED="1411325523195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@stock_picker.coverage" NAME="stock_picker Coverage Results" MODIFIED="1411870036321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
     <SUITE FILE_PATH="coverage/basicRuby@projectEuler1.coverage" NAME="projectEuler1 Coverage Results" MODIFIED="1411313651559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_all__works_with_block__basicRuby.coverage" NAME="my_all? works with block: basicRuby Coverage Results" MODIFIED="1412031411568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@enumerable_methods.coverage" NAME="enumerable_methods Coverage Results" MODIFIED="1412032405234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@regular_ball_super_ball.coverage" NAME="regular-ball-super-ball Coverage Results" MODIFIED="1411323945254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@the_caeser_cipher_wraps__basicRuby.coverage" NAME="the caeser cipher wraps: basicRuby Coverage Results" MODIFIED="1411867377597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@simple_elevator.coverage" NAME="simple_elevator Coverage Results" MODIFIED="1411403648111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_map__basicRuby.coverage" NAME="my_map: basicRuby Coverage Results" MODIFIED="1412031439393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@Run_spec__caesar_cipher_spec___basicRuby.coverage" NAME="Run spec 'caesar_cipher_spec': basicRuby Coverage Results" MODIFIED="1411874345037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@santaclausable_interface.coverage" NAME="santaclausable_interface Coverage Results" MODIFIED="1411400512669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@the_caeser_cipher_maintains_case__basicRuby.coverage" NAME="the caeser cipher maintains case: basicRuby Coverage Results" MODIFIED="1411867442369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_any___basicRuby.coverage" NAME="my_any?: basicRuby Coverage Results" MODIFIED="1412030298705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@list_filtering.coverage" NAME="list_filtering Coverage Results" MODIFIED="1411397624604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@the_substrings_method_accepts_multiple_words__basicRuby.coverage" NAME="the substrings method accepts multiple words: basicRuby Coverage Results" MODIFIED="1411871753453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_each__basicRuby.coverage" NAME="my_each: basicRuby Coverage Results" MODIFIED="1412029408826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@the_bubble_sort_method_sorts_generic_case__basicRuby.coverage" NAME="the bubble_sort method sorts generic case: basicRuby Coverage Results" MODIFIED="1411964529296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@the_bubble_sort_method_benchmarks_best_case__basicRuby.coverage" NAME="the bubble_sort method benchmarks best case: basicRuby Coverage Results" MODIFIED="1411964561884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_inject_works_with_block__basicRuby.coverage" NAME="my_inject works with block: basicRuby Coverage Results" MODIFIED="1412032857536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_none___basicRuby.coverage" NAME="my_none?: basicRuby Coverage Results" MODIFIED="1412028448452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1411866896495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_each_works_with_block__basicRuby.coverage" NAME="my_each works with block: basicRuby Coverage Results" MODIFIED="1412031399600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_each_with_index__basicRuby.coverage" NAME="my_each_with_index: basicRuby Coverage Results" MODIFIED="1412031395909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_all__works_without_block__basicRuby.coverage" NAME="my_all? works without block: basicRuby Coverage Results" MODIFIED="1412028036842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@the_substrings_method_works_with_a_word__basicRuby.coverage" NAME="the substrings method works with a word: basicRuby Coverage Results" MODIFIED="1411871688900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_any__works_without_block__basicRuby.coverage" NAME="my_any? works without block: basicRuby Coverage Results" MODIFIED="1412029720307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@my_none__works_with_block__basicRuby.coverage" NAME="my_none? works with block: basicRuby Coverage Results" MODIFIED="1412031424136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@sort_numbers.coverage" NAME="sort_numbers Coverage Results" MODIFIED="1411327530775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@Run_spec__bubblesort_spec___basicRuby.coverage" NAME="Run spec 'bubblesort_spec': basicRuby Coverage Results" MODIFIED="1411966792619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_odin" MODULE_NAME="basicRuby" />
+    <SUITE FILE_PATH="coverage/basicRuby@array_flatten.coverage" NAME="array_flatten Coverage Results" MODIFIED="1411325523195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basicRuby" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -62,48 +87,56 @@
     <favorites_list name="basicRuby" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="bubblesort_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_odin/bubblesort_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bubble_sort.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_odin/bubble_sort.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enumerable_methods.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5946924" vertical-offset="0" max-vertical-offset="829">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enumerable_methods_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="enumerable_methods.rb" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.43063933" vertical-offset="0" max-vertical-offset="1394">
+                  <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="enumerable_methods_spec.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="922" max-vertical-offset="1802">
+                  <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="stock_picker_spec.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project_odin/stock_picker_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+                  <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="enumerable_methods_spec.rb" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1802">
+                  <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -181,6 +214,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,7 +281,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,26 +295,8 @@
       <recent name="D:\GDrive\learnWebDev\odinProject\basicRuby\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.enumerable_methods">
-    <configuration default="false" name="bubble_sort" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="basicRuby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/project_odin" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/bubble_sort.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="the bubble_sort method sorts generic case: basicRuby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+  <component name="RunManager" selected="RSpec.Run spec 'enumerable_methods_spec': basicRuby">
+    <configuration default="false" name="my_inject: basicRuby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="basicRuby" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -297,10 +312,10 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/bubblesort_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/enumerable_methods_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="the bubble_sort method sorts generic case" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="my_inject" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -313,7 +328,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="the bubble_sort method benchmarks best case: basicRuby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="my_inject works with block: basicRuby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="basicRuby" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -329,10 +344,10 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/bubblesort_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/enumerable_methods_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="the bubble_sort method benchmarks best case" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="my_inject works with block" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -345,7 +360,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Run spec 'bubblesort_spec': basicRuby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="my_inject works with block + arg: basicRuby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="basicRuby" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -361,7 +376,71 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/bubblesort_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/enumerable_methods_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="my_inject works with block + arg" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="my_inject works with text: basicRuby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="basicRuby" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/project_odin" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/enumerable_methods_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="my_inject works with text" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run spec 'enumerable_methods_spec': basicRuby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="basicRuby" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/project_odin" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/enumerable_methods_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
@@ -373,24 +452,6 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="enumerable_methods" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="basicRuby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/project_odin" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/project_odin/enumerable_methods.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
@@ -467,19 +528,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.bubble_sort" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.the bubble_sort method sorts generic case: basicRuby" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.the bubble_sort method benchmarks best case: basicRuby" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.Run spec 'bubblesort_spec': basicRuby" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.enumerable_methods" />
+      <item index="0" class="java.lang.String" itemvalue="RSpec.my_inject: basicRuby" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.my_inject works with block: basicRuby" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.my_inject works with block + arg: basicRuby" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.my_inject works with text: basicRuby" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'enumerable_methods_spec': basicRuby" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.enumerable_methods" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'bubblesort_spec': basicRuby" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.bubble_sort" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.the bubble_sort method benchmarks best case: basicRuby" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.the bubble_sort method sorts generic case: basicRuby" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'enumerable_methods_spec': basicRuby" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.my_inject works with text: basicRuby" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.my_inject works with block: basicRuby" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.my_inject works with block + arg: basicRuby" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.my_inject: basicRuby" />
       </list>
     </recent_temporary>
   </component>
@@ -512,11 +573,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -541,6 +602,38 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project_odin/bubblesort_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_odin/bubble_sort.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="748">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="595">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1683">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project_odin/bubblesort_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
@@ -608,14 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_odin/stock_picker_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_odin/substrings.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
@@ -661,14 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_odin/bubble_sort.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
@@ -677,10 +754,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project_odin/stock_picker_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="922" max-vertical-offset="1751">
+          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project_odin/enumerable_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5946924" vertical-offset="0" max-vertical-offset="829">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.43063933" vertical-offset="0" max-vertical-offset="1394">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding />
         </state>
       </provider>
