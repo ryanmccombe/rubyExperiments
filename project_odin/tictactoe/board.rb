@@ -15,17 +15,37 @@ class Board
   end
 
   # Was play valid input and available?
-  def validate(play, token)
-    @state[play] = token
+  def validate(token)
+    play = gets.chomp
+    if play.nil?
+      false
+    elsif play.downcase == "exit"
+      $game_over=true
+      true
+    elsif play.downcase == "restart"
+      $turn=0
+      $player = rand(1..2)
+      initialize
+      true
+    elsif available_plays.include?(play.to_i)
+      @state[play.to_i] = token
+      true
+    else
+      puts "#{play} is not available"
+      puts "Valid inputs are: #{available_plays.join(", ")}, exit, restart"
+      false
+    end
   end
 
   # Render the board state
   def render
-    puts " " + @state[1] + " | " + @state[2] + " | " + @state[3] + " | Turn: "
-    puts "-----------|"
-    puts " " + @state[4] + " | " + @state[5] + " | " + @state[6] + " | Player 1: "
-    puts "-----------|"
-    puts " " + @state[7] + " | " + @state[8] + " | " + @state[9] + " | Player 2: "
+    puts "-------------"
+    puts "| " + @state[1] + " | " + @state[2] + " | " + @state[3] + " |"
+    puts "|-----------|"
+    puts "| " + @state[4] + " | " + @state[5] + " | " + @state[6] + " | Turn #{$turn}/9 "
+    puts "|-----------| #{$tokens[1]}: #{$player_name[1]}"
+    puts "| " + @state[7] + " | " + @state[8] + " | " + @state[9] + " | #{$tokens[2]}: #{$player_name[2]} "
+    puts " ------------"
     nil
   end
 
