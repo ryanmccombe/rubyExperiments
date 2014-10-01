@@ -16,6 +16,8 @@ class Game
     end
   end
 
+  private
+
   # What happens in a turn
   def turn
     player = $player_name[$player]
@@ -28,9 +30,8 @@ class Game
       print "Place your #{token}: "
     end
     $turn += 1
-    until @board.validate(token); end
-    @board.game_end?
-    switch
+    until @board.process_turn; end
+    $player == 1? $player = 2 : $player = 1
   end
 
   # What happens on turn 1
@@ -38,11 +39,6 @@ class Game
     puts "[#{token}] #{player} starts!"
     @board.render
     print 'Enter a number from 1-9 to make your play: '
-  end
-
-  # Switch control to other player
-  def switch
-    $player == 1? $player = 2 : $player = 1
   end
 
 end

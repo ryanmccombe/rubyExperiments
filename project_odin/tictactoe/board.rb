@@ -6,38 +6,27 @@ class Board
     @state = Array.new(10, ' ')
   end
 
-  # Render the board state
+  # Output board state to console
   def render
     puts '-------------'
-    puts '| ' + @state[1] + ' | ' + @state[2] + ' | ' + @state[3] + ' |'
-    puts '|-----------|'
-    puts '| ' + @state[4] + ' | ' + @state[5] + ' | ' + @state[6] + " |  Turn #{$turn}/9 "
-    puts "|-----------|  #{$tokens[1]}: #{$player_name[1]}"
-    puts '| ' + @state[7] + ' | ' + @state[8] + ' | ' + @state[9] + " |  #{$tokens[2]}: #{$player_name[2]} "
-    puts ' ------------'
+    puts '| %s | %s | %s |' % @state[1..3]
+    puts '-------------'
+    puts '| %s | %s | %s |' % @state[4..6] + "  Turn #{$turn}/9"
+    puts '-------------'                   + "  #{$tokens[1]}: #{$player_name[1]}"
+    puts '| %s | %s | %s |' % @state[7..9] + "  #{$tokens[2]}: #{$player_name[2]}"
+    puts '-------------'
     nil
   end
 
-  # Store which positions are empty
-  def available_plays
-    spaces = []
-    @state[0..9].each_with_index do |s, i|
-      spaces.push(i) if s == ' '
-    end
-    spaces[1..9]
-  end
-
-  # Was play valid input and available?
-  def validate(token)
+  def process_turn
     play = gets.chomp
     if play.downcase == 'exit'
       $game_over=true
-      true
     elsif play.downcase == 'new'
       restart
-      true
     elsif available_plays.include?(play.to_i)
-      @state[play.to_i] = token
+      @state[play.to_i] = $tokens[$player]
+      game_end?
       true
     else
       puts 'That is not available'
@@ -46,7 +35,16 @@ class Board
     end
   end
 
-  # Boolean with whether player with provided token wins
+  private
+
+  def available_plays
+    spaces = []
+    @state[0..9].each_with_index do |s, i|
+      spaces.push(i) if s == ' '
+    end
+    spaces[1..9]
+  end
+
   def win_condition?(token)
     # Horizontal Victories
     victory = true if @state.values_at(1,2,3).all? { |s| s==token }
