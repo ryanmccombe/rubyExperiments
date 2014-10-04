@@ -1,0 +1,1 @@
+puts File.exist?('index.html')
